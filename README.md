@@ -38,13 +38,23 @@ A continuación se presentan los pasos para obtener una copia del proyecto en fu
 * Diríjase a su navegador de preferencia y vaya a la siguiente dirección: [http://localhost:35000/index.html](http://localhost:35000//index.html) para ver la aplicación en funcionamiento, como se muestra a continuación:
 
     Página resultante de ingresar a [http://localhost:35000/](http://localhost:35000/)\
-    ![NotFound](./img/notFound.png)
+    ![NotFound](./img/NotFound.png)\
     Página principal de la búsqueda.\
     ![index](./img/index.png)\
     Página resultante de buscar la película "It".\
     ![It](/img/it.png)\
     Caso en el que la película no existe o no se encuentra.\
     ![MovieNotInformation](./img/notExits.png)
+
+#### Probando en Linux
+
+Se realiza el mismo procedimiento para clonar y ejecutar el proyecto y el resultado se ve como se muestra a continuación:
+
+![linuxExec](./img/linux.png)
+
+El acceso a la aplicación
+
+![indexLInux](./img/indexLinux.png)
 
 ## Ejecutando las pruebas
 
